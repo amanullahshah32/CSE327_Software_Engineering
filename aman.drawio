@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2023-09-13T19:16:55.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="UdgfvZTh1gsRzSxAfvqX" version="21.7.5" type="github">
+  <diagram name="Page-1" id="_PbvJNTGkvAveg9EhvsF">
+    <mxGraphModel dx="1112" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ld2e2TX-nc_UPfX_tgoy-3" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+          <mxGeometry x="23" y="360" width="805" height="395.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld2e2TX-nc_UPfX_tgoy-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld2e2TX-nc_UPfX_tgoy-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="730" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ld2e2TX-nc_UPfX_tgoy-9" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Add your ROOMs&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#808080;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="315.5" y="180" width="220" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
